@@ -1,5 +1,5 @@
 # taskbar
-React project.
-created html file.
-created css file.
+React project.<br>
+created html file.<br>
+created css file.<br>
 creating js file.
